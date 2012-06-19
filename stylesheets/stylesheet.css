@@ -304,12 +304,6 @@ Full-Width Styles
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
 }
-#header_wrap .inner .avatar {
-  width: 100px;
-  height: 100px;
-  float: left;
-  margin-right: 1em;
-}
 
 #project_title {
   margin: 0;

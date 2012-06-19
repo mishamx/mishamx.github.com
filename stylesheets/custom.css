@@ -1,0 +1,7 @@
+
+#header_wrap .inner .avatar {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 1em;
+}
